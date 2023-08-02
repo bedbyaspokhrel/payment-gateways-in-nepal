@@ -54,7 +54,7 @@ Released: 2017
 
 Released: 2004
 
-## [IME Pay](https://www.imepay.com.np/)
+## [IME Pay](https://developer.imepay.com.np/)
 
 ## [Nabil Electronic Payment Gateway](https://nabilbank.com/en/personal/card-e-banking/services/nabil-electronic-payment-gateway-epg)
 
